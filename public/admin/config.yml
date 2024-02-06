@@ -1,0 +1,7 @@
+backend:
+  name: github
+  branch: main # change this to your branch
+  repo: M-erb/decapcms-astro-demo # change this to your repo
+  site_domain: decapcms.merb.dev # change this to your domain
+  base_url: https://decapcms.merb.dev # change this to your prod URL
+  # auth_endpoint: oauth # the oauth route provided by the integration
