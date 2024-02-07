@@ -11,10 +11,12 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.4.1",
+    "@astrojs/cloudflare": "^9.0.0",
     "@astrojs/mdx": "^2.1.1",
     "@astrojs/rss": "^4.0.5",
     "@astrojs/sitemap": "^3.0.5",
     "astro": "^4.3.3",
+    "astro-decap-cms-oauth": "^0.2.9",
     "typescript": "^5.3.3"
   }
 }
